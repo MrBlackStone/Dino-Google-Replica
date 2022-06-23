@@ -53,10 +53,13 @@
     <UnityVersion>2020.3.21f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Assets\PlayerMovements.cs" />
-    <Compile Include="Assets\playercollision.cs" />
     <Compile Include="Assets\Score.cs" />
+    <Compile Include="Assets\playercollision.cs" />
     <Compile Include="Assets\finalscore.cs" />
+    <Compile Include="Assets\PlayerMovements.cs" />
+    <Compile Include="Assets\pool.cs" />
+    <Compile Include="Assets\test.cs" />
+    <Compile Include="Assets\cactus.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
